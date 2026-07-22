@@ -1,0 +1,111 @@
+{
+  "search_queries": [
+    "Software Engineer",
+    "Associate Software Engineer",
+    "Software Developer"
+  ],
+  "title_allow": [
+    "software engineer",
+    "software developer",
+    "sde",
+    "developer associate"
+  ],
+  "title_exclude": [
+    "senior",
+    "sr.",
+    "sr ",
+    "lead",
+    "principal",
+    "staff",
+    "architect",
+    "manager",
+    "director",
+    "vp",
+    "vice president",
+    "head",
+    " intern",
+    "internship",
+    " ii",
+    " iii",
+    " iv",
+    " v",
+    " - ii",
+    " - iii",
+    " - iv",
+    " - v"
+  ],
+  "india_locations": [
+    "india",
+    "pune",
+    "bangalore",
+    "bengaluru",
+    "gurugram",
+    "gurgaon",
+    "vadodara",
+    "hyderabad",
+    "noida",
+    "chennai",
+    "mumbai",
+    "delhi",
+    "nagpur",
+    "coimbatore",
+    "kochi",
+    "jaipur",
+    "ahmedabad",
+    "lucknow",
+    "indore",
+    "bhopal",
+    "mysore",
+    "mangalore",
+    "visakhapatnam",
+    "vijayawada",
+    "tiruchirappalli",
+    "madurai",
+    "thiruvananthapuram",
+    "kolkata"
+  ],
+  "sites": [
+    {
+      "name": "Mastercard",
+      "slug": "mastercard",
+      "subdomain": "wd1",
+      "site_path": "CorporateCareers",
+      "career_url": "https://careers.mastercard.com"
+    },
+    {
+      "name": "Visa",
+      "slug": "visa",
+      "subdomain": "wd5",
+      "site_path": "Visa",
+      "career_url": "https://www.visa.com"
+    },
+    {
+      "name": "Workday",
+      "slug": "workday",
+      "subdomain": "wd5",
+      "site_path": "Workday",
+      "career_url": "https://www.workday.com"
+    },
+    {
+      "name": "Thomson Reuters",
+      "slug": "thomsonreuters",
+      "subdomain": "wd5",
+      "site_path": "External_Career_Site",
+      "career_url": "https://www.thomsonreuters.com"
+    },
+    {
+      "name": "Kyndryl",
+      "slug": "kyndryl",
+      "subdomain": "wd5",
+      "site_path": "kyndrylprofessionalcareers",
+      "career_url": "https://www.kyndryl.com"
+    },
+    {
+      "name": "Allegion",
+      "slug": "allegion",
+      "subdomain": "wd5",
+      "site_path": "careers",
+      "career_url": "https://www.allegion.com"
+    }
+  ]
+}
